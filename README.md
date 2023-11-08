@@ -1,5 +1,3 @@
-## Tailwind CSS - Boilerplate.
-
 ## How to use this Boilerplate.
 
 1. Clone this repository.
@@ -47,7 +45,7 @@ npx tailwindcss init
 
 3. Replace in tailwind.config.js
 
-```bash
+```js
 content: ["./src/**/*.{html,js}", "./*"],
 ```
 
