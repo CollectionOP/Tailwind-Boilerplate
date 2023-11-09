@@ -12,10 +12,10 @@ git clone git@github.com:CollectionOP/Tailwind-Boilerplate.git
 rm -rf .git
 ```
 
-3. Start the Tailwind CLI build process.
+3. Install devDependency.
 
 ```bash
-npx tailwindcss -i ./src/css/style.css -o ./dist/style.css --watch
+npm install
 ```
 
 4. To use the Tailwind CLI build process run.
